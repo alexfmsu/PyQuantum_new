@@ -1,0 +1,55 @@
+(dp0
+Vcapacity
+p1
+I2
+sVn_atoms
+p2
+I2
+sVwc
+p3
+F6729000000.0
+sVwc(Hz)
+p4
+V6.729 GHz
+p5
+sVwa
+p6
+F6729000000.0
+sVwa(Hz)
+p7
+V6.729 GHz
+p8
+sVg_0
+p9
+F0.01
+sVg_step
+p10
+F0.01
+sVg_1
+p11
+F1.01
+sVl
+p12
+F6729000000.0
+sVl(Hz)
+p13
+V6.729 GHz
+p14
+sVl/wc
+p15
+F1.0
+sVdt
+p16
+F1.486104919007282e-13
+sVdt(s)
+p17
+V148.61 f
+p18
+sVdt*l
+p19
+F0.001
+sVpath
+p20
+Vmax/l_wc_t_0.01l
+p21
+s.

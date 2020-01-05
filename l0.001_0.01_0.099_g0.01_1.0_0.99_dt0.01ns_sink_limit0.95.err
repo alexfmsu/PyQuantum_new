@@ -1,0 +1,1 @@
+len(l_list) == mpisize; mpisize = 1, l_list:0.001,0.1
